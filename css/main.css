@@ -1,0 +1,33 @@
+html {
+    background-color: darkgray;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+a:link {
+    color: aqua;
+}
+
+a:link:hover {
+    text-decoration: bold;
+}
+
+table {
+    border: 2px solid black;
+}
+
+th {
+    border: 1px solid black;
+}
+
+tr:nth-child(odd), tr:nth-child(odd) {
+  background-color: ;
+}
+tr:nth-child(even), tr:nth-child(even) {
+  background-color: #C1743F;
+}
+
+.header {
+  text-align: center;
+  font-size: 24;
+}
